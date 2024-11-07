@@ -107,13 +107,13 @@
                               <div class="text-bg">
                                  <span>Welcome to</span>
                                  <h1>Galyna Heiwa</h1>
-                                 <p>Galyna Heiwa menghadirkan sarirangan berkualitas tinggi, hasil karya pengrajin Kalimantan Selatan yang menghidupkan tradisi dengan sentuhan modern. Temukan koleksi sarirangan kami yang memadukan corak khas budaya Banjar dengan gaya elegan untuk segala kesempatan. </p>
+                                 <p>Galyna Heiwa was founded in 2018 and operates in the fashion sector by producing sasirangan and ecoprint fabrics typical of South Kalimantan, ready-made clothing and Muslim fashion, bags, hats and others using natural dyes. </p>
 
                               </div>
                            </div>
                            <div class="col-md-6">
                               <div class="text_img">
-                                 <figure><img src="template-landingpage/images/girl.png" alt="#"/></figure>
+                                 <figure><img src="template-landingpage/images/girl2.png" alt="#"/></figure>
                               </div>
                            </div>
                         </div>
@@ -230,7 +230,7 @@
                <div class="col-md-9">
                   <div class="titlepage">
                      <h2> <img src="template-landingpage/images/head.h.png" alt="#"/> About</h2>
-                     <p>Galyna Heiwa berdiri sejak tahun 2018 bergerak di bidang fashion dengan memproduksi kain sasirangan dan ecoprint khas Kalimantan Selatan,pakaian jadi dan moslem fashion, Tas ,topi dan lain - lain menggunakan pewarna alam</p>
+                     <p>Galyna Heiwa was founded in 2018 and operates in the fashion sector by producing sasirangan and ecoprint fabrics typical of South Kalimantan, ready-made clothing and Muslim fashion, bags, hats and others using natural dyes.</p>
                      <a class="read_more">Read More</a>
                   </div>
                </div>
@@ -239,7 +239,7 @@
       </div>
       <!-- end about -->
       <!-- customer -->
-      <div id="customer" class="customer">
+      {{-- <div id="customer" class="customer">
          <div class="container">
             <div class="row">
                <div class="col-md-12">
@@ -305,7 +305,7 @@
          </div>
       </div>
       <!-- end customer -->
-      </div>
+      </div> --}}
 
       <!-- end contact -->
       <!--  footer -->
